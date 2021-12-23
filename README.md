@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This package has been deprecated, see [@znetstar/encode-tools-native](https://github.com/znetstar/encode-tools-native) for a drop-in replacement.
+
 # Etomon Encode Tools
 
 [![NPM](https://nodei.co/npm/@etomon/encode-tools.png)](https://nodei.co/npm/@etomon/encode-tools/)
